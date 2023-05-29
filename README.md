@@ -1,4 +1,4 @@
-# submission_application
+# Leave App Mobile (Submission Application)
 
 A new Flutter project.
 
